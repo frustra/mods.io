@@ -1,5 +1,5 @@
-mods.io Issues
-==============
+mods.io issue tracker
+=====================
 
 This repository is used to track bugs and suggestions for [mods.io][].
 Feel free to create a [new issue] or browse [existing ones].
